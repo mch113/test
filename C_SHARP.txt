@@ -1,0 +1,6 @@
+
+
+int length = str.Length
+
+
+str.Substring(int startIndex, int length)
